@@ -1,5 +1,5 @@
 
-# 2048 Game
+# Tile Fusion 2048 Game
 
 <p>This is a web-based implementation of the popular 2048 game. The project demonstrates the use of HTML, CSS (Sass), and JavaScript to create an interactive and responsive game.</p>
 
